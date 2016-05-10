@@ -1,6 +1,7 @@
 This repo contains code for an Arduino/ESP8266 based IoT Mood Light project.
 
 Details of the project can be found at:
+http://www.instructables.com/id/IoT-Mood-Lighting/
 
 room_light_arduino contains the Arduino sketch for an Arduino Pro Mini.  Use Arduino IDE to flash the code to the microcontroller.
 
